@@ -19,7 +19,8 @@
 
 <summary>기술 스택</summary>
 
-![OS_1](https://github.com/parkminkyeong/minkyeong0716.githud.io/assets/156064273/0cab9904-e04c-434d-adf7-be6050f538a4)
+![os_2](https://github.com/parkminkyeong/minkyeong0716.githud.io/assets/156064273/aa71d94a-61c3-4d6a-bc00-6949b8bf9f41)
+
 
 </details>
 
